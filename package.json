@@ -1,7 +1,7 @@
 {
   "name": "ap",
   "version": "0.0.1",
-  "description": "Personal npm card for Ari-Pekka Koponen (@ap)",
+  "description": "Personal npm card for Ari-Pekka Koponen (@apkoponen)",
   "main": "dist/card.js",
   "unpkg": "index.html",
   "repository": {
@@ -52,7 +52,7 @@
       "npm": "apkoponen",
       "github": "apkoponen",
       "linkedin": "apkoponen",
-      "work": "Tech Director"
+      "work": "Frontend Engineer"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
