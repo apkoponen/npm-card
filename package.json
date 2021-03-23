@@ -1,5 +1,5 @@
 {
-  "name": "ap",
+  "name": "apkoponen",
   "version": "0.0.1",
   "description": "Personal npm card for Ari-Pekka Koponen (@apkoponen)",
   "main": "dist/card.js",
